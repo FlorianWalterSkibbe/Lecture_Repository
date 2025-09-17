@@ -1,4 +1,7 @@
 # Lecture_Repository
+
 This is my first repository - I am happy.
-I am looking forward to learn more
-New Comment
+
+I am looking forward to learn more.
+
+New Comment.
